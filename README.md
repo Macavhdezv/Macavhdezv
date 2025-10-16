@@ -1,9 +1,8 @@
-## Hi there 👋
+# Hola a todxs!👋
 
 <!--
 **Macavhdezv/Macavhdezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Soy licenciada de Ciencia Política, minor en Comunicaciones de la Pontificia Universidad Católica de Chile y actualmente estoy estudiando en Magíster de Ciencia Política en Relaciones Internacionales
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
